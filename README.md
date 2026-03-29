@@ -49,7 +49,3 @@ To create an optimized production build, run:
 npm run build
 ```
 This will generate the built assets in the `dist` folder, ready for deployment.
-
-## 📄 Source Design
-
-The original design for this portfolio was conceptualized in Figma. You can view the mockups here: [Figma Design](https://www.figma.com/design/ZX1kx1QoHLP332qu3veiFn/Portfolio).
