@@ -44,7 +44,7 @@ export function AlmazaCaseStudy() {
           {/* Project Links */}
           <div className="flex flex-wrap gap-4 mb-8">
             <a 
-              href="http://almaza.mohamedabuohagar.ca/" 
+              href="https://almaza.mohamedabuohagar.ca/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-emerald-500 to-purple-600 text-white font-semibold rounded-full hover:shadow-lg hover:-translate-y-1 transition-all"
